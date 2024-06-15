@@ -8,6 +8,9 @@
 ##### 2.1.1 OSINT 
    * OSINT framework ➨ https://osintframework.com/
    * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet
+   * Whoislookup ➨ https://www.whois.com/whois/
+   * Nslookup ➨ https://shorturl.at/9pFZn
+   * 
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

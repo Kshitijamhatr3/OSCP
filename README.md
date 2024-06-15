@@ -1,7 +1,9 @@
 # OSCP
 ## ∎∎∎ Topics ∎∎∎
-1) Basics
-2) Information Gathering
+### 1) Basics
+### 2) Information Gathering
+#### 2.1 Passive Information Gathering
+#### 2.2 Active Information GAthering
 3) Vulnerability Scanning
 4) Introduction to Web Applications
 5) Common Web Application Attacks

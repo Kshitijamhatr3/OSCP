@@ -1,4 +1,6 @@
 # OSCP
+Welcome to the OSCP (Offensive Security Certified Professional) Preparation Resources repository! This repository is designed to be a comprehensive and curated collection of resources from multiple sources, aimed at helping you prepare effectively for the OSCP exam. Whether you are just starting your OSCP journey or looking to refine your skills, this repository contains valuable materials to guide you through every step of the process.
+
 ## ∎∎∎ Topics ∎∎∎
 ### 1) Basics
 ### 2) Information Gathering

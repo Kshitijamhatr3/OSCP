@@ -7,7 +7,7 @@
 #### 2.1 Passive Information Gathering
 ##### 2.1.1 OSINT 
    * OSINT framework ➨ https://osintframework.com/
-   * 
+   * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

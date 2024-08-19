@@ -5,13 +5,18 @@
 ### 1) Basics
 ### 2) Information Gathering
 #### 2.1 Passive Information Gathering
-##### 2.1.1 OSINT 
-   * OSINT framework ➨ https://osintframework.com/
-   * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet
-   * Whoislookup ➨ https://www.whois.com/whois/
-   * Nslookup ➨ https://shorturl.at/9pFZn
-   * Shodan ➨ https://www.shodan.io/
-   * Maltego ➨ https://www.maltego.com/
+##### 2.1.1 OSINT
+    * OSINT framework ➨ https://osintframework.com/
+    * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet
+    * Whoislookup ➨ https://www.whois.com/whois/
+    * Nslookup ➨ https://shorturl.at/9pFZn
+    * Shodan ➨ https://www.shodan.io/
+    * Maltego ➨ https://www.maltego.com/
+##### 2.1.2 Social Media Recon
+    * Social Media Platform
+    * Social Media Mining Tools ➨ Maltego, Social-Engineer Toolkit (SET)
+##### 2.1.3 Domain Name and WHOIS Information
+    * 
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

@@ -16,7 +16,10 @@
     * Social Media Platform
     * Social Media Mining Tools ➨ Maltego, Social-Engineer Toolkit (SET)
 ##### 2.1.3 Domain Name and WHOIS Information
-    * 
+    * Subdomain finder ➨ https://subdomainfinder.c99.nl/
+    * DNS lookup tool ➨ https://mxtoolbox.com/DnsLookup.aspx
+    * Whois lookup ➨ https://www.whois.com/whois/ (registrar, registration date, and contact details )
+    * Nslookup ➨ nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

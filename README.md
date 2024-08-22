@@ -4,7 +4,7 @@
 ## ∎∎∎ Topics ∎∎∎
 ### 1) Basics
 ### 2) Information Gathering
-#### 2.1 Passive Information Gathering
+#### 2.1 Passive/ Active Information Gathering
 ##### 2.1.1 OSINT
     * OSINT framework ➨ https://osintframework.com/
     * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet
@@ -19,6 +19,7 @@
 ##### 2.1.3 Domain Name and WHOIS Information
     * Subdomain finder ➨ https://subdomainfinder.c99.nl/
     * Subdomain enumeration ➨ https://dnsdumpster.com/
+    * Subdomain enumeration (based on certificates) ➨ https://crt.sh/
     * DNS lookup tool ➨ https://mxtoolbox.com/DnsLookup.aspx
     * Whois lookup ➨ https://www.whois.com/whois/ (registrar, registration date, and contact details )
     * Nslookup ➨ nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.
@@ -31,6 +32,15 @@
 ##### 2.1.6 Public Records and Database Searches
     * Pipl: A people search engine that aggregates data from various sources. ➨ https://pipl.com/
     * Public record database ➨ https://www.searchpublicrecords.com
+##### 2.1.7 SSL/TLS Certificate Analysis
+    * Censys: A search engine for finding and analyzing SSL certificates and also for searching HOSTS. ➨ https://search.censys.io/
+    * Qualys SSL Labs: Multiple SSL related tools. ➨ https://www.ssllabs.com/projects/index.html
+##### 2.1.8 Code Repository Monitoring 
+    * GitHub Search ➨ https://github.com/search
+    * Pastebin ➨ https://pastebin.com/
+##### 2.1.9 Threat Intelligence Platforms
+    * Threat Crowd: A search engine for discovering and sharing threat intelligence. ➨ ci-www.threatcrowd.org
+    * Virustotal: A tool for analyzing suspicious files and URLs to detect malware and other threats. ➨ https://www.virustotal.com/gui/home/upload
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

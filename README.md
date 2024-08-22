@@ -12,6 +12,7 @@
     * Nslookup ➨ https://shorturl.at/9pFZn
     * Shodan ➨ https://www.shodan.io/
     * Maltego ➨ https://www.maltego.com/
+    * Wayback machine ➨ https://web.archive.org/
 ##### 2.1.2 Social Media Recon
     * Social Media Platform
     * Social Media Mining Tools ➨ Maltego, Social-Engineer Toolkit (SET)
@@ -21,8 +22,15 @@
     * DNS lookup tool ➨ https://mxtoolbox.com/DnsLookup.aspx
     * Whois lookup ➨ https://www.whois.com/whois/ (registrar, registration date, and contact details )
     * Nslookup ➨ nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.
-##### 2.1.4 Search Engine Recon
-    * 
+##### 2.1.4 Metadata Analysis
+    * FOCA: A tool specifically designed for extracting metadata from online documents ➨ https://github.com/ElevenPaths/FOCA
+    * Metadata ➨ https://www.metadata2go.com
+##### 2.1.5 Email Harvesting
+    * theHarvester: A tool designed for gathering email addresses and other information from public sources. ➨ https://github.com/laramies/theHarvester
+    * Hunter.io: A web-based tool for finding email addresses based on domain names. ➨ https://hunter.io/
+##### 2.1.6 Public Records and Database Searches
+    * Pipl: A people search engine that aggregates data from various sources. ➨ https://pipl.com/
+    * Public record database ➨ https://www.searchpublicrecords.com
 #### 2.2 Active Information Gathering
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications

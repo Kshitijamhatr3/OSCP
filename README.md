@@ -59,6 +59,18 @@
       - Unicornscan: A fast network scanning tool.
       
 ##### 2.2.2 Vulnerability Scanning
+    * Topics:
+    
+      - Common vulnerabilities and exposures (CVE)
+      - Vulnerability databases
+      - Scanning methodologies
+
+    * Tools:
+    
+      - OpenVAS: A full-featured vulnerability scanner.
+      - Nessus: A popular commercial vulnerability scanner.
+      - Nikto: A web server scanner.
+      
 ##### 2.2.3 Banner Grabbing
 ##### 2.2.4 Wireless Network Scanning
 ##### 2.2.5 Web Application Testing

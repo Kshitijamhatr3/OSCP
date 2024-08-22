@@ -4,7 +4,7 @@
 ## ∎∎∎ Topics ∎∎∎
 ### 1) Basics
 ### 2) Information Gathering
-#### 2.1 Passive/ Active Information Gathering
+#### 2.1 Passive Information Gathering
 ##### 2.1.1 OSINT
     * OSINT framework ➨ https://osintframework.com/
     * Google Dorking ➨ https://github.com/Kshitijamhatr3/google-dork-cheatsheet

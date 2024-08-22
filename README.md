@@ -81,9 +81,36 @@
       - Telnet/Netcat: For manual banner grabbing.
         Example: nc <target_ip> <port> (Connects to a service and grabs the banner)
       - Nmap: Can also be used to grab banners.
+      
 ##### 2.2.4 Wireless Network Scanning
+    * Topics:
+      - Wireless protocols (802.11 standards)
+      - Wireless encryption and authentication methods
+
+    * Tools:
+      - Aircrack-ng: A suite for wireless network auditing.
+      - Kismet: A wireless network detector and sniffer.
+      
 ##### 2.2.5 Web Application Testing
+    *  Topics:
+       - Understanding web technologies (HTTP/HTTPS, HTML, SQL, etc.)
+       - Common web vulnerabilities (SQL injection, XSS, etc.)
+
+    * Tools:
+      - Burp Suite: A comprehensive web application security testing tool.
+      - OWASP ZAP: An open-source web application security scanner.
+      - Wapiti: A web application vulnerability scanner.
+      
 ##### 2.2.6 Password Cracking
+    * Topics:
+      - Brute force and dictionary attacks
+      - Understanding password hashing mechanisms
+
+    * Tools:
+      - Hydra: A parallelized login cracker.
+      - John the Ripper: A fast password cracker.
+      - Medusa: A speedy, parallel, and modular login brute-forcer.
+      
 ##### 2.2.7 Social Engineering
 ##### 2.2.8 Exploit Research and Development
 ##### 2.2.9 Network Traffic Analysis

@@ -112,10 +112,41 @@
       - Medusa: A speedy, parallel, and modular login brute-forcer.
       
 ##### 2.2.7 Social Engineering
-##### 2.2.8 Exploit Research and Development
-##### 2.2.9 Network Traffic Analysis
-##### 2.2.10 Service Enumeration
+    * Topics:
+      - Phishing techniques.
+      - Pretexting and impersonation
 
+    * Tools:
+      - Social-Engineer Toolkit (SET): A framework for automating social engineering attacks.
+      - Phishing Frameworks: Such as Gophish.
+      
+##### 2.2.8 Exploit Research and Development
+    * Topics:
+      - Understanding exploit frameworks.
+      - Writing custom exploits
+      
+    * Tools:
+      - Metasploit Framework: A widely used penetration testing framework.
+      - Exploit-DB: A database of public exploits and vulnerable software.
+      
+##### 2.2.9 Network Traffic Analysis
+    * Topics:
+      - Capturing and analyzing network packets
+      - Protocol analysis
+    * Tools:
+      - Wireshark: A network protocol analyzer.
+      - Tcpdump: A command-line packet analyzer
+      
+##### 2.2.10 Service Enumeration
+    * Topics:
+      - Enumerating services on a network.
+      - Identifying running services and their configurations.
+   
+    * Tools:
+      - Nmap: For service enumeration.
+      - Netcat: For manual service testing.
+      - Enum4linux: For enumerating information from Windows and Samba systems.
+    
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications
 ### 5) Common Web Application Attacks

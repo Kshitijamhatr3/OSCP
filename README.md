@@ -44,14 +44,14 @@
     
 #### 2.2 Active Information Gathering
 ##### 2.2.1 Network Scanning
-    * Topics:
+   Topics:
       - Understanding TCP/IP protocols
       - ICMP scanning
       - TCP/UDP port scanning
       - Service version detection
       - OS fingerprinting
 
-Tools:
+   Tools:
 
     Nmap: Used for network discovery and security auditing.
         Example: nmap -sS -sV -O -p 1-65535 <target_ip> (Performs a SYN scan, detects service versions, and fingerprints the OS)

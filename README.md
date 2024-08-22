@@ -23,7 +23,7 @@
     * DNS lookup tool ➨ https://mxtoolbox.com/DnsLookup.aspx
     * Whois lookup ➨ https://www.whois.com/whois/ (registrar, registration date, and contact details )
     * Nslookup ➨ nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.
-    ✍️ : https://www.ceeyu.io/resources/blog/subdomain-enumeration-tools-and-techniques
+    ✍️ Subdomain Enumeration : https://www.ceeyu.io/resources/blog/subdomain-enumeration-tools-and-techniques
 ##### 2.1.4 Metadata Analysis
     * FOCA: A tool specifically designed for extracting metadata from online documents ➨ https://github.com/ElevenPaths/FOCA
     * Metadata ➨ https://www.metadata2go.com

@@ -70,8 +70,17 @@
       - OpenVAS: A full-featured vulnerability scanner.
       - Nessus: A popular commercial vulnerability scanner.
       - Nikto: A web server scanner.
+      - Burpsuite: 
       
 ##### 2.2.3 Banner Grabbing
+    * Topics:
+      - Understanding service banners.
+      - Using banners to identify service versions
+      
+    * Tools:
+      - Telnet/Netcat: For manual banner grabbing.
+        Example: nc <target_ip> <port> (Connects to a service and grabs the banner)
+      - Nmap: Can also be used to grab banners.
 ##### 2.2.4 Wireless Network Scanning
 ##### 2.2.5 Web Application Testing
 ##### 2.2.6 Password Cracking

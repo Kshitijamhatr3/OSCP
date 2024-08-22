@@ -50,6 +50,7 @@
       - TCP/UDP port scanning
       - Service version detection
       - OS fingerprinting
+      
     * Tools:
       - Nmap: Used for network discovery and security auditing.
       - Zenmap: GUI version of Nmap.

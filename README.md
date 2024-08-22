@@ -45,6 +45,7 @@
 #### 2.2 Active Information Gathering
 ##### 2.2.1 Network Scanning
     * Topics:
+    
       - Understanding TCP/IP protocols
       - ICMP scanning
       - TCP/UDP port scanning
@@ -52,6 +53,7 @@
       - OS fingerprinting
       
     * Tools:
+    
       - Nmap: Used for network discovery and security auditing.
       - Zenmap: GUI version of Nmap.
       - Unicornscan: A fast network scanning tool.

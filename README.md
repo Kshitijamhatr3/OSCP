@@ -41,7 +41,32 @@
 ##### 2.1.9 Threat Intelligence Platforms
     * Threat Crowd: A search engine for discovering and sharing threat intelligence. ➨ ci-www.threatcrowd.org
     * Virustotal: A tool for analyzing suspicious files and URLs to detect malware and other threats. ➨ https://www.virustotal.com/gui/home/upload
+    
 #### 2.2 Active Information Gathering
+##### 2.2.1 Network Scanning
+    * Topics:
+      - Understanding TCP/IP protocols
+      - ICMP scanning
+      - TCP/UDP port scanning
+      - Service version detection
+      - OS fingerprinting
+
+Tools:
+
+    Nmap: Used for network discovery and security auditing.
+        Example: nmap -sS -sV -O -p 1-65535 <target_ip> (Performs a SYN scan, detects service versions, and fingerprints the OS)
+    Zenmap: GUI version of Nmap.
+    Unicornscan: A fast network scanning tool.
+##### 2.2.2 Vulnerability Scanning
+##### 2.2.3 Banner Grabbing
+##### 2.2.4 Wireless Network Scanning
+##### 2.2.5 Web Application Testing
+##### 2.2.6 Password Cracking
+##### 2.2.7 Social Engineering
+##### 2.2.8 Exploit Research and Development
+##### 2.2.9 Network Traffic Analysis
+##### 2.2.10 Service Enumeration
+
 ### 3) Vulnerability Scanning
 ### 4) Introduction to Web Applications
 ### 5) Common Web Application Attacks

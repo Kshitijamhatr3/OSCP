@@ -24,6 +24,7 @@
     * Whois lookup ➨ https://www.whois.com/whois/ (registrar, registration date, and contact details )
     * Nslookup ➨ nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.
     ✍️ Subdomain Enumeration : https://www.ceeyu.io/resources/blog/subdomain-enumeration-tools-and-techniques
+    
 ##### 2.1.4 Metadata Analysis
     * FOCA: A tool specifically designed for extracting metadata from online documents ➨ https://github.com/ElevenPaths/FOCA
     * Metadata ➨ https://www.metadata2go.com
@@ -149,6 +150,15 @@
       - Enum4linux: For enumerating information from Windows and Samba systems.
     
 ### 3) Vulnerability Scanning
+#### 3.1 Network Vulnerability Scanning
+##### 3.1.1 Nessus
+##### 3.1.2 OpenVAS
+##### 3.1.3 Nmap
+##### 3.1.4 QualysGuard
+
+#### 3.2 Website Vulnerability Scanning
+
+
 ### 4) Introduction to Web Applications
 ### 5) Common Web Application Attacks
 ### 6) SQL Injection Attacks

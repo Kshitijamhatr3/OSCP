@@ -152,8 +152,12 @@
 ### 3) Vulnerability Scanning
 
 #### 3.1 Network Vulnerability Scanning
+
 ##### 3.1.1 Nessus
+    * Official documentation: https://docs.tenable.com/nessus/Content/GettingStarted.htm
 ##### 3.1.2 OpenVAS
+    * Beginner tutorial: https://infosecwriteups.com/introduction-to-openvas-a-vulnerability-scanner-cd5bf830e2fe
+    * Beginner tutorial: https://hackertarget.com/openvas-tutorial-tips/
 ##### 3.1.3 Nmap
 ##### 3.1.4 QualysGuard
 ##### 3.1.5 Metasploit Framework

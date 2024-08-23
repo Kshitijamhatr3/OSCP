@@ -150,14 +150,22 @@
       - Enum4linux: For enumerating information from Windows and Samba systems.
     
 ### 3) Vulnerability Scanning
+
 #### 3.1 Network Vulnerability Scanning
 ##### 3.1.1 Nessus
 ##### 3.1.2 OpenVAS
 ##### 3.1.3 Nmap
 ##### 3.1.4 QualysGuard
+##### 3.1.5 Metasploit Framework
+##### 3.1.6 Netcat
 
 #### 3.2 Website Vulnerability Scanning
-
+##### 3.2.1 Burp Suite
+##### 3.2.2 OWASP ZAP
+##### 3.2.3 Acunetix
+##### 3.2.4 Nikto
+##### 3.2.5 Arachni
+##### 3.2.6 Wapiti
 
 ### 4) Introduction to Web Applications
 ### 5) Common Web Application Attacks
